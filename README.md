@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @jalilo213
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+<h1>- 👋 Hi, I’m Abdeldjalil </h1>
+<h2>- 👀 I’m interested in web development</h2>  
+<p>- 🌱 I’m currently learning front-end FULL STACK</p>
+<p>- 📫 How to reach me</p>
+
+  belmecheri.abdeldjalil@gmail.com
 
 <!---
 jalilo213/jalilo213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
